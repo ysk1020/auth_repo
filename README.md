@@ -1,7 +1,3 @@
-Here’s a refined and **professional README** for your **React + Vite Authentication App**, incorporating your screenshots and purpose clearly:
-
----
-
 # 🔐 React Auth App (with Vite)
 
 A clean and modular **authentication system** built using **React** and **Vite**, designed for speed, scalability, and learning modern React best practices.
