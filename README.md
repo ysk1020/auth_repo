@@ -24,15 +24,15 @@ A clean and modular **authentication system** built using **React** and **Vite**
 
 ### 📝 Sign Up Page
 
-![Sign Up](../my-auth-app/public/SignUpPage.png)
+![Sign Up](.public/SignUpPage.png)
 
 ### 🔐 Sign In Page
 
-![Sign In](../my-auth-app/public/SignInPage.png)
+![Sign In](./public/SignInPage.png)
 
 ### ❓ Forgot Password Page
 
-![Forgot Password](../my-auth-app/public/ForgotPassword.png)
+![Forgot Password](./public/ForgotPassword.png)
 
 ---
 
