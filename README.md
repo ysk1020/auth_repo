@@ -82,5 +82,3 @@ npm run build
 This app is a great starting point for anyone learning React or building a scalable frontend login system. Whether for personal learning or portfolio projects, it’s structured to grow.
 
 ---
-
-Would you like a version with deployment instructions (e.g., for Vercel or Netlify) or with TypeScript setup next?
