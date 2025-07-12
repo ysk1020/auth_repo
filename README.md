@@ -24,7 +24,7 @@ A clean and modular **authentication system** built using **React** and **Vite**
 
 ### 📝 Sign Up Page
 
-![Sign Up](.public/SignUpPage.png)
+![Sign Up](./public/SignUpPage.png)
 
 ### 🔐 Sign In Page
 
