@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.material-icons {
+  width: 30;
+  hight: 30;
+}
