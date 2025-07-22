@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Sidebar() {
     return (
-        <div className='flex flex-col justify-between h-full w-full max-w-[5rem] p-4 bg-pink-50'>
+        <div className='flex flex-col justify-between h-full max-w-[5rem] p-4 bg-pink-50'>
             <div className='space-y-4'>
                 <button type="button" className="relative inline-flex items-center p-3 text-sm font-medium text-center hover:bg-gray-100 rounded-3xl">
                     <span className="material-icons">

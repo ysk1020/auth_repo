@@ -4,7 +4,7 @@ import { dummyChats } from '../../data/dummyChats'
 
 export default function ChatListPanel() {
     return (
-        <div className='h-full w-[calc(40vh-2rem)]'>
+        <div className=''>
             <div className='flex flex-row justify-between items-center-safe h-[3rem] w-full'>
                 <h1 className='font-bold text-2xl'>Nurali's Nudes</h1>
                 <button>
