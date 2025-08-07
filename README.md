@@ -34,7 +34,9 @@ A clean and modular **authentication system** built using **React** and **Vite**
 
 ![Forgot Password](./public/ForgotPassword.png)
 
----
+### Chat App
+
+## ![Chat App](./public/DemoChatApp.png)
 
 ## 🛠️ Getting Started
 

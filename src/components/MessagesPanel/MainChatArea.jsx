@@ -1,7 +1,17 @@
 import React from 'react'
+import { MessagesBubble } from './MessageBubble';
 
-export default function MainChatArea() {
+export default function MainChatArea({ message }) {
+
+
     return (
-        <div className='w-full h-full '>MainChatArea</div>
+        <div className=''>
+            {
+                message.map((msg) => (
+                    <MessagesBubble key={msg.id} message={msg} />
+                ))
+            }
+
+        </div >
     )
 }
